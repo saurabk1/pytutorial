@@ -1,2 +1,2 @@
-def prod(a,b):
-    return a*b
+def prod(a,b,c):
+    return a*b*c
